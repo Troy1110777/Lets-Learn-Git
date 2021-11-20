@@ -1,0 +1,6 @@
+1. git add <filename> --- track the file means this file come into the staging area.
+2. git add .  --- all files will come in staging area.
+3. Working Directory ---> use (git add <file name>) --->  staging Area ---> use (git commit) ---> Repository
+4. git commit -m "initial commit" --- commit all files which are present in staging area.
+5. git log ---  to show how many previous commit happend by which author.
+

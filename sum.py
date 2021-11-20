@@ -5,4 +5,4 @@ def sum(a,b):
 if __name__ =="__main__":
     a,b=map(int,input().split())
     ans = sum(a,b)
-    print("sum of",a,"and",b,"is: ",ans)
+    print("sum of",a,"and",b,"is:= ",ans)
